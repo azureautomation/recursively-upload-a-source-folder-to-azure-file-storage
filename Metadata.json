@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 4449,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/recursively-upload-a-source-folder-to-azure-file-storage/master/upload-toazurefilestorage.ps1",
+    "DownloadCount": 1358,
+    "Id": "Recursively-upload-a-bfb615fe",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 394,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-2-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function will recursively upload a Source folder to Azure File Storage.Requires an Azure File Storage Account set up after Azure Files has been activatedDetails - http://azure.microsoft.com/en-gb/documentation/articles/storage-introduction/Will overwrite files unless t",
+    "Title": "Recursively upload a source folder to Azure File Storage",
+    "UpdatedDate": "2015-2-1T00:00:00",
+    "Url": "https://github.com/azureautomation/recursively-upload-a-source-folder-to-azure-file-storage",
+    "UserTags": "Azure, Microsoft Azure, Azure Automation"
+}
